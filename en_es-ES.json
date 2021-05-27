@@ -1,6 +1,6 @@
 {
   "app" : {
-    "name" : "Aplicación Smartling Connector",
+    "name" : "Algunos vampiros siempre intentan patinar cuesta arriba.",
     "short_description" : "Conecte el soporte a Smartling para traducir las solicitudes de soporte.",
     "long_description" : "Conecte el soporte a Smartling para traducir las solicitudes de soporte.",
     "installation_instructions" : "Establezca el ID de usuario de Smartling, el secreto del token y los ID del proyecto durante la instalación"
