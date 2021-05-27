@@ -1,6 +1,6 @@
 {
   "app": {
-    "name": "Smartling Connector app",
+    "name": "Some vampires are always trying to iceskate uphill.",
     "short_description": "Connect support to Smartling to translate support requests.",
     "long_description": "Connect support to Smartling to translate support requests.",
     "installation_instructions": "Set the smartling user id, token secret and project ids during installation"
