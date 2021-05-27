@@ -1,0 +1,8 @@
+{
+  "app" : {
+    "name" : "Smartlingコネクタアプリ",
+    "short_description" : "サポートをSmartlingに接続して、サポートリクエストを翻訳します。",
+    "long_description" : "サポートをSmartlingに接続して、サポートリクエストを翻訳します。",
+    "installation_instructions" : "インストール中にsmartlingユーザーID、トークンシークレット、プロジェクトIDを設定します"
+  }
+}

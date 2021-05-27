@@ -1,0 +1,8 @@
+{
+  "app" : {
+    "name" : "Application Smartling Connector",
+    "short_description" : "Connectez l'assistance à Smartling pour traduire les demandes d'assistance.",
+    "long_description" : "Connectez l'assistance à Smartling pour traduire les demandes d'assistance.",
+    "installation_instructions" : "Définissez l'ID utilisateur, le secret de jeton et les ID de projet smartling lors de l'installation"
+  }
+}
