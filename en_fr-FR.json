@@ -1,6 +1,6 @@
 {
   "app" : {
-    "name" : "Application Smartling Connector",
+    "name" : "Certains vampires essaient toujours de faire du patin à glace en montée.",
     "short_description" : "Connectez l'assistance à Smartling pour traduire les demandes d'assistance.",
     "long_description" : "Connectez l'assistance à Smartling pour traduire les demandes d'assistance.",
     "installation_instructions" : "Définissez l'ID utilisateur, le secret de jeton et les ID de projet smartling lors de l'installation"
