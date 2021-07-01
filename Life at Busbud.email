@@ -1,0 +1,752 @@
+<!DOCTYPE html><html class="no-js lang-en" lang="en"><head><title>Life at Busbud</title><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"><meta name="baidu-site-verification" content="MZyTvcJYkp" /><meta property="fb:app_id" content="142556252515404"><meta property="og:title" content="Life at Busbud"><meta property="og:site_name" content="Busbud"><meta property="og:type" content="website"><meta property="og:url" content="https://www.busbud.com/en/careers/life"><meta property="og:image" content="https://busbud-pubweb-assets-preview.global.ssl.fastly.net/images/2784feb.largeicon.png"><meta property="og:image:height" content="512"><meta property="og:image:width" content="512"><link rel="apple-touch-icon" sizes="180x180" href="//busbud-pubweb-assets-preview.global.ssl.fastly.net/images/favicons/52ed922.apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="//busbud-pubweb-assets-preview.global.ssl.fastly.net/images/favicons/c52fff8.favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="//busbud-pubweb-assets-preview.global.ssl.fastly.net/images/favicons/9ded9aa.favicon-16x16.png"><link rel="mask-icon" color="#127ccd" href="//busbud-pubweb-assets-preview.global.ssl.fastly.net/images/favicons/f17798c.safari-pinned-tab.svg"><link rel="shortcut icon" href="//busbud-pubweb-assets-preview.global.ssl.fastly.net/images/favicons/74b1f36.favicon.ico"><link rel="manifest" href="//busbud-pubweb-assets-preview.global.ssl.fastly.net/images/favicons/5966ce0.manifest.json"><meta name="apple-mobile-web-app-title" content="Busbud"><meta name="application-name" content="Busbud"><meta name="msapplication-config" content="//busbud-pubweb-assets-preview.global.ssl.fastly.net/images/favicons/9a452a8.browserconfig.xml"><meta name="theme-color" content="#127ccb"><link rel="canonical" href="https://www.busbud.com/en/careers/life"><link rel="alternate" hreflang="de" href="https://www.busbud.com/de/careers/life"><link rel="alternate" hreflang="en" href="https://www.busbud.com/en/careers/life"><link rel="alternate" hreflang="en-ca" href="https://www.busbud.com/en-ca/careers/life"><link rel="alternate" hreflang="en-gb" href="https://www.busbud.com/en-gb/careers/life"><link rel="alternate" hreflang="es" href="https://www.busbud.com/es/careers/life"><link rel="alternate" hreflang="es-mx" href="https://www.busbud.com/es-mx/careers/life"><link rel="alternate" hreflang="fr" href="https://www.busbud.com/fr/careers/life"><link rel="alternate" hreflang="fr-ca" href="https://www.busbud.com/fr-ca/careers/life"><link rel="alternate" hreflang="it" href="https://www.busbud.com/it/careers/life"><link rel="alternate" hreflang="nl" href="https://www.busbud.com/nl/careers/life"><link rel="alternate" hreflang="pl" href="https://www.busbud.com/pl/careers/life"><link rel="alternate" hreflang="pt-br" href="https://www.busbud.com/pt/careers/life"><link rel="alternate" hreflang="pt" href="https://www.busbud.com/pt-pt/careers/life"><link rel="alternate" hreflang="sv" href="https://www.busbud.com/sv/careers/life"><link rel="alternate" hreflang="tr" href="https://www.busbud.com/tr/careers/life"><link rel="alternate" hreflang="zh" href="https://www.busbud.com/zh/careers/life"><link rel="alternate" hreflang="x-default" href="https://www.busbud.com/careers/life"><link rel="alternate" hreflang="es-co" href="https://www.busbud.com/es-419/careers/life"><link rel="alternate" hreflang="es-ar" href="https://www.busbud.com/es-419/careers/life"><link rel="alternate" hreflang="es-cl" href="https://www.busbud.com/es-419/careers/life"><script>function BBPerfPing(e,t,n){var r,o=encodeURIComponent,i=window,a=i.performance,c=[];this.report=function(r,s){var f=i.navigator,u="/i?requestId="+o(e),y={sample:r,entityId:n&&n.id||"",entityType:n&&n.type||"",totalLongTasksDuration:-1};try{var p=a&&a.timing;if(y.connectionType=f&&f.connection&&f.connection.effectiveType,a&&a.getEntriesByType){var g=a.getEntriesByType("navigation"),d=g&&g[0];d&&Object.keys(d.toJSON()).forEach(function(e){var t=d[e];y[e]=t&&t.toFixed?t.toFixed(0):t},""),(g=a.getEntriesByType("paint"))&&g.forEach(function(e){e.startTime&&(y[e.name]=e.startTime.toFixed(0))}),c.length&&(y.totalLongTasksDuration=parseInt(c.reduce(function(e,t){return e+t.duration},0),10))}else Object.keys(p.toJSON()).forEach(function(e){y[e]=0===p[e]?0:p[e]-p.navigationStart},"");if(t&&void 0!==window.btoa){var v=JSON.stringify(Object.keys(t).map(function(e){return{k:e,v:t[e].replace("control","#")}}));y.experiments=btoa(v.length+v)}s&&Object.keys(s).forEach(function(e){y[e]=s[e]}),u+=Object.keys(y).filter(function(e){return"experiments"!==e}).sort().concat("experiments").reduce(function(e,t){return e+"&"+o(t)+"="+o(y[t])},"")}catch(e){u+="&error="+o(e&&(e.message||e)).slice(0,200)}return(new Image).src=u,!1};try{a&&a.getEntriesByType&&a.getEntriesByType("longtask")&&(r=new PerformanceObserver(function(e){for(var t=e.getEntries(),n=0;n<t.length;n++)c.push(t[n])})).observe({entryTypes:["longtask"],buffered:!0})}catch(o){}return this.report("head"),addEventListener("load",function(){this.report("onload"),r&&r.disconnect()}),this}</script><script data-id="perfping">var bb_perf_ping = BBPerfPing('6e6e68d8-0935-4aa5-aaf3-dc7677a4e629', {"nn_remove_fees":"control","account_book_trip_copy":"control","book_return_trip":"control","checkout_passenger_autofill":"control","cj_affiliate_sales":"control","contentful_opertators_new_fields":"control","contentful_perf":"control","currency_selector_removal_landing_pages":"control","departure_card_single_ticket_price":"control","departure_details_clean":"control","es_seat_selection":"control","es_selected_seat_price":"control","es_show_departures_with_unmapped_stop":"control","hide_card_logos":"control","improved_results_header":"control","installments":"control","mobile_ad":"control","new_confirmation_page":"control","adyen_credit_card_expiry_date_merged":"control","pay_button_copy":"control","price_prediction_route_page":"control","redirect_to_signup":"control","remove_napi_options_req":"control","seat_layout_tag":"control","seat_selection_inline":"control","seat_selection_modal":"control","seats_on_departure_card":"control","show_sources":"control","stringified_props":"control","vanilla_homepage":"control","thank_you_nps_and_easymeter":"control","test_user_experiment":"control","xp_control_variance":"control","hosting_env":"heroku"}, undefined)</script><script>(function (w, smartling_org_id) {
+  try {
+    var h = document.getElementsByTagName('head')[0];
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = 1;
+    s.crossorigin = 'anonymous';
+    s.src = '//d2c7xlmseob604.cloudfront.net/tracker.min.js';
+    s.onload = function () {
+      w.SmartlingContextTracker.init({ orgId: smartling_org_id, resourceFetchLimit: 50 });
+    };
+    h.insertBefore(s, h.firstChild);
+  } catch (ex) {
+    console.log(ex);
+  }
+})(window, 'D5K3znxlcRt8KxuqjwMf0Q')</script><script>!function(){var e=document.getElementsByTagName("html")[0];e&&(e.className=e.className.replace("no-js","js"))}();</script><link rel="stylesheet" href="//busbud-pubweb-assets-preview.global.ssl.fastly.net/css/00ff5c6.core.css"><link rel="stylesheet" href="//busbud-pubweb-assets-preview.global.ssl.fastly.net/css/f5f5274.about-section.css"><link rel="stylesheet" href="//busbud-pubweb-assets-preview.global.ssl.fastly.net/css/5c073d0.jobs.css"><style>.lazy-load,.lazy-loaded{-webkit-transition:opacity .3s;transition:opacity .3s;opacity:0}.lazy-loaded{opacity:1}</style><script>!function(){function e(){this.cache=[],this.load_threshhold=300}var t=window.addEventListener||function(e,t){window.attachEvent("on"+e,t)},a=window.removeEventListener||function(e,t){window.detachEvent("on"+e,t)};e.prototype.addObservers=function(){t("scroll",this.loadVisibleImages.bind(this)),t("resize",this.loadVisibleImages.bind(this))},e.prototype.removeObservers=function(){a("scroll",this.loadVisibleImages.bind(this),!1),a("resize",this.loadVisibleImages.bind(this),!1)},e.prototype.getOffsetTop=function(e){var t=0;if(e.offsetParent){do{t+=e.offsetTop}while(e=e.offsetParent);return t}},e.prototype.loadVisibleImages=function(){var e=this.getOffsetTop,t=window.pageYOffset||document.documentElement.scrollTop,a=window.innerHeight||document.documentElement.clientHeight,i={min:t-this.load_threshhold,max:t+a+this.load_threshhold};this.cache=this.cache.filter(function(t){var a=e(t),o=t.height||0;if(a>=i.min-o&&a<=i.max){var s={};return s.temp_image=new Image,t.className.indexOf("hero-image")>-1&&window.innerWidth<641?!0:(s.temp_image.onload=function(){"DIV"===t.tagName?t.style.backgroundImage="url('"+t.getAttribute("data-src")+"')":t.src=t.getAttribute("data-src"),t.removeAttribute("data-src"),t.className=t.className.replace(/(^|\s+)lazy-load(\s+|$)/,"$1lazy-loaded$2"),delete s.temp_image},s.temp_image.src=t.getAttribute("data-src"),!1)}return!0}),0===this.cache.length&&this.removeObservers()},e.prototype.init=function(){var e=this;t("load",function t(){Array.prototype.slice.call(document.querySelectorAll("img[data-src]")).forEach(function(t){t.src||(t.src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",t.className=t.className+" lazy-load"),e.cache.push(t)}),e.cache=e.cache.concat(Array.prototype.slice.call(document.querySelectorAll("div[data-src]"))),e.addObservers(),e.loadVisibleImages(),a("load",t,!1)})},(new e).init()}();</script></head><body class="page-about-life"><div class="mobile-modal" id="language-modal" style="display:none" tabindex="-1" role="dialog" aria-labelledby="language-modal-label"><div class="mobile-modal-content" role="document"><div class="mobile-modal-header clearfix"><button class="close float-right" data-dismiss="modal" aria-label="Close"><svg name="clear" width="24" height="24" preserveAspectRatio="xMidYMid meet"><use xlink:href="#icon-clear" href="#icon-clear" aria-hidden="true"></use></svg></button><p class="mobile-modal-title" id="language-modal-label">Select a language</p></div><div class="mobile-modal-body"><ul class="list-mobile"><li class="list-item"><a href="/de/careers/life">Deutsch</a></li><li class="list-item"><a href="/en-ca/careers/life">English (Canada)</a></li><li class="list-item"><a href="/en-gb/careers/life">English (UK)</a></li><li class="list-item"><a href="/es/careers/life">Español (España)</a></li><li class="list-item"><a href="/es-419/careers/life">Español (Latinoamérica)</a></li><li class="list-item"><a href="/es-mx/careers/life">Español (Mexico)</a></li><li class="list-item"><a href="/fr/careers/life">Français</a></li><li class="list-item"><a href="/fr-ca/careers/life">Français (Canada)</a></li><li class="list-item"><a href="/it/careers/life">Italiano</a></li><li class="list-item"><a href="/nl/careers/life">Nederlands</a></li><li class="list-item"><a href="/pl/careers/life">Polski</a></li><li class="list-item"><a href="/pt/careers/life">Português (Brazil)</a></li><li class="list-item"><a href="/pt-pt/careers/life">Português</a></li><li class="list-item"><a href="/sv/careers/life">Svenska</a></li><li class="list-item"><a href="/tr/careers/life">Türkçe</a></li><li class="list-item"><a href="/zh/careers/life">中文简体</a></li></ul></div></div></div><div class="mobile-modal" id="currency-modal" style="display:none" tabindex="-1" role="dialog" aria-labelledby="currency-modal-label"><div class="mobile-modal-content" role="document"><div class="mobile-modal-header clearfix"><button class="close float-right" data-dismiss="modal" aria-label="Close"><svg name="clear" width="24" height="24" preserveAspectRatio="xMidYMid meet"><use xlink:href="#icon-clear" href="#icon-clear" aria-hidden="true"></use></svg></button><p class="mobile-modal-title" id="currency-modal-label">Select a currency</p></div><div class="mobile-modal-body"><ul class="list-mobile"><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=EUR">Euros (EUR)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=GBP">British pounds (GBP)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=CAD">Canadian dollars (CAD)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=AUD">Australian dollars (AUD)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=BRL">Brazilian reals (BRL)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=MXN">Mexican pesos (MXN)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=ARS">Argentine pesos (ARS)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=INR">Indian rupees (INR)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=CNY">Chinese yuan (CNY)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=JPY">Japanese yen (JPY)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=RUB">Russian rubles (RUB)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=KRW">South Korean won (KRW)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=PEN">Peruvian soles (PEN)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=PLN">Polish zlotys (PLN)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=TRY">Turkish Lira (TRY)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=SEK">Swedish kronor (SEK)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=CZK">Czech korunas (CZK)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=NZD">New Zealand dollars (NZD)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=MAD">Moroccan dirhams (MAD)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=ZAR">South African rand (ZAR)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=CLP">Chilean pesos (CLP)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=COP">Colombian pesos (COP)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=CHF">Swiss francs (CHF)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=DKK">Danish kroner (DKK)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=ILS">Israeli new shekels (ILS)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=NOK">Norwegian kroner (NOK)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=SGD">Singapore dollars (SGD)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=HKD">Hong Kong dollars (HKD)</div></li><li class="list-item"><div class="list-link" data-url="/en/careers/life?currency=THB">Thai baht (THB)</div></li></ul></div></div></div><div class="mobile-modal mobile-menu" id="mobile-menu-modal" style="display:none" tabindex="-1" role="dialog" aria-labelledby="mobile-menu-modal-label"><div class="mobile-modal-content" role="document"><div class="mobile-modal-header clearfix no-shadow"><button class="close float-right" data-dismiss="modal" aria-label="Close"><svg name="clear" width="24" height="24" preserveAspectRatio="xMidYMid meet"><use xlink:href="#icon-clear" href="#icon-clear" aria-hidden="true"></use></svg></button><p class="mobile-modal-title" id="mobile-menu-modal-label"></p></div><div class="mobile-modal-body"><ul class="list-mobile list-group"><li class="list-item-bold"><a href="/en/account/signin?redirect=%2Fen%2Fcareers%2Flife" class="d-flex align-items-center"><svg name="user-circle" width="18" height="18" preserveAspectRatio="xMidYMid meet"><use xlink:href="#icon-user-circle" href="#icon-user-circle" aria-hidden="true"></use></svg>My account</a></li><li class="list-item-bold"><a href="/en" class="d-flex align-items-center"><svg name="search" width="18" height="18" preserveAspectRatio="xMidYMid meet"><use xlink:href="#icon-search" href="#icon-search" aria-hidden="true"></use></svg>Search</a></li></ul><ul class="list-mobile list-group"><li><a href="/en/support">Help</a></li><li><a href="/en/about">About</a></li><li><ul class="list-mobile"><li class="list-item-unbordered"><span class="list-title" id="coverage-collapse">Coverage<i class="icon-right icon-dropdown"><svg name="angle-down" class="icon-right" width="15" height="15" preserveAspectRatio="xMidYMid meet"><use xlink:href="#icon-angle-down" href="#icon-angle-down" aria-hidden="true"></use></svg></i></span></li><li id="coverage-links" class="list-item-unbordered" style="display:none"><ul class="list-mobile list-nested"><li><a href="/en/sitemap/wr/0">All Routes</a></li><li><a href="/en/sitemap/wc/0">All Cities</a></li><li><a href="/en/sitemap/wp/0">All Partners</a></li><li><a href="/en/sitemap/ws/0">All Stations</a></li></ul></li></ul></li><li><ul class="list-mobile"><li class="list-item-unbordered"><span class="list-title" id="company-collapse">Company<i class="icon-right icon-dropdown"><svg name="angle-down" class="icon-right" width="15" height="15" preserveAspectRatio="xMidYMid meet"><use xlink:href="#icon-angle-down" href="#icon-angle-down" aria-hidden="true"></use></svg></i></span></li><li id="company-links" class="list-item-unbordered" style="display:none"><ul class="list-mobile list-nested"><li><a href="https://www.busbud.com/blog/" rel="nofollow">Blog</a></li><li><a href="/en/about/press" rel="nofollow">Press</a></li><li><a href="/en/careers" rel="nofollow">Careers</a></li><li><a href="https://www.busbud.com/partner">Affiliate products</a></li><li><a href="https://www.busbud.com/partner/supply/">Bus partners</a></li><li><a href="https://www.busbud.com/promo-mobile/">Mobile App</a></li></ul></li></ul></li></ul><ul class="list-mobile picker-wrapper"><li class="list-item-input-group"><span id="language-input" class="list-item-input">English (US)<svg name="angle-down" class="icon-right" width="15" height="15" preserveAspectRatio="xMidYMid meet"><use xlink:href="#icon-angle-down" href="#icon-angle-down" aria-hidden="true"></use></svg></span></li><li class="list-item-input-group"><span id="currency-input" class="list-item-input">US dollars<svg name="angle-down" class="icon-right" width="15" height="15" preserveAspectRatio="xMidYMid meet"><use xlink:href="#icon-angle-down" href="#icon-angle-down" aria-hidden="true"></use></svg></span></li></ul></div></div></div><div class="view-main is-visible" id="main-view"><div class="sticky-wrapper"><div class="d-flex header"><div class="icon d-lg-none mx-2"></div><div class="header-container justify-content-center justify-content-lg-start"><a class="header-brand" href="/en"><img class="mobile-logo" alt="Busbud" aria-label="Busbud" title="Busbud" src="https://busbud.imgix.net/busbud-logos/busbud_logo.svg?auto=compress%2Cformat"/></a><ul class="nav-pills d-none d-lg-flex ml-auto"><li class="nav-item"><a class="pill nav-link" href="/en/about"><svg name="bus" class="nav-icon" width="16" height="16" preserveAspectRatio="xMidYMid meet"><use xlink:href="#icon-bus" href="#icon-bus" aria-hidden="true"></use></svg>About</a></li><li class="nav-item"><a class="pill nav-link" href="/en/support"><svg name="question-circle" class="nav-icon" width="16" height="16" preserveAspectRatio="xMidYMid meet"><use xlink:href="#icon-question-circle" href="#icon-question-circle" aria-hidden="true"></use></svg>Help</a></li><li class="nav-item dropdown"><div class="account-header"><a id="js-header-signin-link" href="/en/account/signin?redirect=%2Fen%2Fcareers%2Flife" class="pill nav-link"><svg name="user-circle" class="nav-icon" width="16" height="16" preserveAspectRatio="xMidYMid meet"><use xlink:href="#icon-user-circle" href="#icon-user-circle" aria-hidden="true"></use></svg>My account</a></div></li></ul></div><div class=""><div class="icon icon-right d-lg-none js-mobile-menu-button"><svg name="bars" label="Menu" width="24" height="24" preserveAspectRatio="xMidYMid meet"><use xlink:href="#icon-bars" href="#icon-bars" aria-label="Menu"></use></svg></div></div></div><div class="subheader d-flex"><div class="header-container"><ul class="nav nav-tabs card-header-tabs justify-content-xs-around nav-scrollable"><li class="nav-item d-flex"><a class="nav-link d-flex flex-column align-items-center justify-content-center nav-back-icon" href="/en/about" title="About us"><svg height="16" width="16"><use xlink:href="#icon-angle-left" aria-hidden="true"></use></svg></a></li><li class="nav-item d-flex"><a class="nav-link d-flex flex-column align-items-center text-center text-compact m-0" href="/en/careers" title="Welcome">Welcome</a></li><li class="nav-item d-flex"><a class="nav-link d-flex flex-column align-items-center text-center text-compact m-0" href="/en/careers/people" title="Our Team">Our Team</a></li><li class="nav-item d-flex"><a class="nav-link d-flex flex-column align-items-center text-center text-compact m-0 active" href="/en/careers/life" title="Life at Busbud">Life at Busbud</a></li><li class="nav-item d-flex"><a class="nav-link d-flex flex-column align-items-center text-center text-compact m-0" href="/en/careers/openings" title="Openings">Openings</a></li></ul></div></div><div class="hero" style="background-image: url('https://busbud.imgix.net/about/journey-with-busbud.jpg?h=200&amp;crop=edges&amp;fit=crop&amp;auto=compress%2Cformat&amp;dpr=2&amp;fm=pjpg')"><div class="hero hero-image lazy-load" data-src="https://busbud.imgix.net/about/journey-with-busbud.jpg?auto=compress%2Cformat"></div><div class="row"><div class="column"><div class="d-flex align-items-center justify-content-center"><h1 class="hero-text white-text text-center">Join a team that takes you to new places</h1></div></div></div></div><div id="content"><div class="row mt-5"><div class="column medium-12 d-flex flex-column align-items-center"><h2>Our values</h2><div class="d-flex flex-wrap justify-content-center"><div class="column medium-6 small-12 d-flex flex-column align-items-center"><div class="d-flex flex-column align-items-center p-5"><div class="d-flex justify-content-center align-items-center rounded-circle text-white bg-primary" style="height:100px;width:100px;"><svg width="52" height="52" viewBox="0 0 512 512"><path d="M488 128h-8V80c0-44.8-99.2-80-224-80S32 35.2 32 80v48h-8c-13.25 0-24 10.74-24 24v80c0 13.25 10.75 24 24 24h8v160c0 17.67 14.33 32 32 32v32c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32v-32h192v32c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32v-32h6.4c16 0 25.6-12.8 25.6-25.6V256h8c13.25 0 24-10.75 24-24v-80c0-13.26-10.75-24-24-24zM112 400c-17.67 0-32-14.33-32-32s14.33-32 32-32 32 14.33 32 32-14.33 32-32 32zm16-112c-17.67 0-32-14.33-32-32V128c0-17.67 14.33-32 32-32h256c17.67 0 32 14.33 32 32v128c0 17.67-14.33 32-32 32H128zm272 112c-17.67 0-32-14.33-32-32s14.33-32 32-32 32 14.33 32 32-14.33 32-32 32z"></path></svg></div><span class="text-primary my-2 h3">Going places</span><p class="text-center main-text">Just like we help people get to their travel destination, we believe in supporting our employees on their career journey.</p></div></div><div class="column medium-6 small-12 d-flex flex-column align-items-center"><div class="d-flex flex-column align-items-center p-5"><div class="d-flex justify-content-center align-items-center rounded-circle text-white bg-primary" style="height:100px;width:100px;"><svg width="52" height="52" viewBox="0 0 384 512"><path d="M80.95 472.23c-4.28 17.16 6.14 34.53 23.28 38.81 2.61.66 5.22.95 7.8.95 14.33 0 27.37-9.7 31.02-24.23l25.24-100.97-52.78-52.78-34.56 138.22zm14.89-196.12L137 117c2.19-8.42-3.14-16.95-11.92-19.06-43.88-10.52-88.35 15.07-99.32 57.17L.49 253.24c-2.19 8.42 3.14 16.95 11.92 19.06l63.56 15.25c8.79 2.1 17.68-3.02 19.87-11.44zM368 160h-16c-8.84 0-16 7.16-16 16v16h-34.75l-46.78-46.78C243.38 134.11 228.61 128 212.91 128c-27.02 0-50.47 18.3-57.03 44.52l-26.92 107.72a32.012 32.012 0 0 0 8.42 30.39L224 397.25V480c0 17.67 14.33 32 32 32s32-14.33 32-32v-82.75c0-17.09-6.66-33.16-18.75-45.25l-46.82-46.82c.15-.5.49-.89.62-1.41l19.89-79.57 22.43 22.43c6 6 14.14 9.38 22.62 9.38h48v240c0 8.84 7.16 16 16 16h16c8.84 0 16-7.16 16-16V176c.01-8.84-7.15-16-15.99-16zM240 96c26.51 0 48-21.49 48-48S266.51 0 240 0s-48 21.49-48 48 21.49 48 48 48z"></path></svg></div><span class="text-primary my-2 h3">Independent Spirit</span><p class="text-center main-text">We cultivate our curiosity, teach ourselves and share new knowledge, and move along the path of continuous learning.</p></div></div><div class="column medium-6 small-12 d-flex flex-column align-items-center"><div class="d-flex flex-column align-items-center p-5"><div class="d-flex justify-content-center align-items-center rounded-circle text-white bg-primary" style="height:100px;width:100px;"><svg width="52" height="52" viewBox="0 0 576 512"><path d="M397.4 219c-23.5-19.1-54.3-10.6-70 4.8l-7.4 7.3-7.4-7.3c-15.3-15.1-46.2-24.1-70-4.8-23.6 19.1-24.8 53.5-3.7 74.2l72.6 71.3c4.7 4.6 12.3 4.6 17 0l72.6-71.3c21-20.7 19.8-55.1-3.7-74.2zM546.2 9.7c-2.9-6.5-8.6-9.7-14.3-9.7-5.3 0-10.7 2.8-14 8.5C486.9 62.4 431.4 96 368 96h-80C182 96 96 182 96 288c0 17.5 2.5 34.4 6.9 50.5C29 402.5 2.5 476.9 1.3 480.2c-4.3 12.5 2.3 26.1 14.8 30.5 2.6.9 5.2 1.3 7.9 1.3 9.9 0 19.2-6.2 22.7-16.1.2-.6 21.1-57.8 76.1-110.4C160.3 449 231.5 487 308.4 478.9 465.5 467.6 576 326.8 576 154.3c0-50.2-10.8-102.2-29.8-144.6zM303.4 431.2C215.4 440.5 144 370.8 144 288c0-79.4 64.6-144 144-144h80c57.9 0 111.6-22 152-60.9 5.2 23.2 8 47.5 8 71.2 0 151-93.8 267.4-224.6 276.9z"></path></svg></div><span class="text-primary my-2 h3">Sustainability</span><p class="text-center main-text">We embrace sustainability in our business, workplace and community, by fostering diversity and inclusion in the workplace.</p></div></div><div class="column medium-6 small-12 d-flex flex-column align-items-center"><div class="d-flex flex-column align-items-center p-5"><div class="d-flex justify-content-center align-items-center rounded-circle text-white bg-primary" style="height:100px;width:100px;"><svg width="52" height="52" viewBox="0 0 640 512"><path d="M488 192H336v56c0 39.7-32.3 72-72 72s-72-32.3-72-72V126.4l-64.9 39C107.8 176.9 96 197.8 96 220.2v47.3l-80 46.2C.7 322.5-4.6 342.1 4.3 357.4l80 138.6c8.8 15.3 28.4 20.5 43.7 11.7L231.4 448H368c35.3 0 64-28.7 64-64h16c17.7 0 32-14.3 32-32v-64h8c13.3 0 24-10.7 24-24v-48c0-13.3-10.7-24-24-24zm147.7-37.4L555.7 16C546.9.7 527.3-4.5 512 4.3L408.6 64H306.4c-12 0-23.7 3.4-33.9 9.7L239 94.6c-9.4 5.8-15 16.1-15 27.1V248c0 22.1 17.9 40 40 40s40-17.9 40-40v-88h184c30.9 0 56 25.1 56 56v28.5l80-46.2c15.3-8.9 20.5-28.4 11.7-43.7z"></path></svg></div><span class="text-primary my-2 h3">Super Helpful</span><p class="text-center main-text">Helpfulness is a core part of our mission, and we go the extra mile to provide a seamless booking experience for our customers, so they enjoy a smooth journey.</p></div></div></div></div></div></div><div class="hero" style="background-image: url('https://busbud.imgix.net/about/culture.jpg?h=200&amp;crop=edges&amp;fit=crop&amp;auto=compress%2Cformat&amp;dpr=2&amp;fm=pjpg')"><div class="hero hero-image lazy-load" data-src="https://busbud.imgix.net/about/culture.jpg?auto=compress%2Cformat"></div><div class="row"><div class="column"><div class="d-flex align-items-center justify-content-center"><h1 class="hero-text white-text text-center">Cultural Initiatives</h1></div></div></div></div><div class="row mt-5"><div class="column"><div class="card p-4 m-2"><div class="row"><div class="column medium-6 small-12"><h3 class="text-primary">Field trips</h3><p>We organize field trips to gather insights on how our users travel and to put ourselves in our users&#39; shoes. Our hands-on experience informs the way we design the easy and seamless booking experience that Busbud offers.</p>
+<p>Here are some field trips we have organized recently:</p>
+<ul class="ml-3 mb-3"><li><a href="https://www.busbud.com/blog/bonjour-leurope-our-second-busbud-field-trip/">France and UK</a></li><li><a href="https://www.busbud.com/blog/argentina-field-trip/">Argentina</a></li></ul></div><div class="column medium-6 small-12"><img src="https://busbud.imgix.net/about/france-UK.jpg?auto=compress%2Cformat"></div></div></div></div><div class="column"><div class="card p-4 m-2"><div class="row"><div class="column medium-6 small-12">     <h3 class="text-primary">Omnibus Project</h3><p>We&#39;ve made diversity a priority throughout  our company and beyond, with concrete action every quarter. We decided to name this our <em>Omnibus Project</em>, with omni meaning &quot;all&quot; in latin. In other words, &quot;a bus for all&quot;.</p>
+<ul class="ml-3 mb-3"><li><a href="https://www.busbud.com/blog/omnibus-project-q1-2019-results/">2019 Q1</a></li><li><a href="https://www.busbud.com/blog/omnibus-project-q4-2018-results/">2018 Q4</a></li><li><a href="/en/about/diversity">More</a></li></ul></div><div class="column medium-6 small-12"><img src="https://busbud.imgix.net/about/diversity.jpg?auto=compress%2Cformat"></div></div></div></div><div class="column"><div class="card p-4 m-2"><div class="row"><div class="column medium-6 small-12">     <h3 class="text-primary">Hackathons</h3><p>Twice a year, our team members put their usual jobs aside for 3 days to work on a project that they think is interesting and worthwhile – whether exploring something new in the product, for the company culture or something else they&#39;ve been itching to work on. Here are some of the more &quot;internally famous&quot; hackathon projects that we&#39;ve completed.</p>
+<ul class="ml-3 mb-3"><li><a href="https://www.busbud.com/blog/kicking-of-2018-with-3-great-hackathon-projects">Washbot</a></li><li><a href="https://www.busbud.com/blog/busbuds-hackathon-got-six-awesome-projects-done-two-days/">Pong Dome</a></li><li><a href="/blog/engineering-product/hackathons/">More projects</a></li></ul></div><div class="column medium-6 small-12"><img src="https://busbud.imgix.net/about/hackathons.jpg?auto=compress%2Cformat"></div></div></div></div><div class="column"><div class="card p-4 m-2"><div class="row"><div class="column medium-6 small-12">     <h3 class="text-primary">Sustainability week</h3><p>Twice per quarter, the Product Engineering Team takes a step back for a week and focuses on tasks that help maintain and improve its velocity. This is guaranteed time set aside to make sure we are maximizing our creativity and productivity.</p>
+<p>For engineers, this usually means time to tackle technical debt, upgrade dependencies, scratch that code refactoring itch, collaborate across squads and make other healthy investments.</p>
+<p>For product, it&#39;s an opportunity to review plans, get a head start on new ones, further explore customer feedback and catch up after a few sprints of work to make sure we&#39;re always doing our best for our users.</p>
+</div><div class="column medium-6 small-12"><img src="https://busbud.imgix.net/about/neil-thomas-SIU1Glk6v5k-unsplash-sustainability-week.jpg?auto=compress%2Cformat"></div></div></div></div></div></div><footer class="footer" id="main-footer"><div class="row footer-content"><div class="column small-6 medium-3"><ul class="list"><li><p class="list-header">Coverage</p></li><li><a href="/en/sitemap/wr/0">All Routes</a></li><li><a href="/en/sitemap/wc/0">All Cities</a></li><li><a href="/en/sitemap/wp/0">All Partners</a></li><li><a href="/en/sitemap/ws/0">All Stations</a></li></ul></div><div class="column small-6 medium-3"><ul class="list"><li><p class="list-header">Company</p></li><li><a href="https://www.busbud.com/blog/" rel="nofollow noopener">Blog</a></li><li><a href="/en/about">About</a></li><li><a href="/en/about/press" rel="nofollow">Press</a></li><li><a href="/en/careers" rel="nofollow">Careers</a></li><li><a href="https://www.busbud.com/partner" rel="noopener">Affiliate products</a></li><li><a href="https://www.busbud.com/partner/supply/" rel="noopener">Bus partners</a></li><li><a href="https://www.busbud.com/promo-mobile/">Mobile App</a></li></ul></div><div class="column small-6 medium-3"><ul class="list"><li><p class="list-header">Support</p></li><li><a href="https://help.busbud.com/hc/en-us" rel="noopener">Help</a></li><li><a href="/en/support">Contact</a></li><li><a href="/en/about/tos" rel="nofollow">Terms of use</a></li><li><a href="/en/about/privacy" rel="nofollow">Privacy</a></li><li><a href="/en/about/refunds" rel="nofollow">Refund policy</a></li></ul></div><div class="column small-6 medium-3"><p class="list-header">Community</p><ul class="inline-list social-links"><li><a href="https://facebook.com/busbud" title="Facebook" target="_blank" rel="nofollow noopener"><svg height="24" width="24"><use xlink:href="#icon-facebook" aria-hidden="true"></use></svg></a></li><li><a href="https://twitter.com/busbud" title="Twitter" target="_blank" rel="nofollow noopener"><svg height="24" width="24"><use xlink:href="#icon-twitter" aria-hidden="true"></use></svg></a></li><li><a href="https://www.instagram.com/busbud_com/" title="Instagram" target="_blank" rel="nofollow noopener"><svg height="24" width="24"><use xlink:href="#icon-instagram" aria-hidden="true"></use></svg></a></li><li><a href="https://www.pinterest.ca/busbud/overview/" title="Pinterest" target="_blank" rel="nofollow noopener"><svg height="24" width="24"><use xlink:href="#icon-pinterest" aria-hidden="true"></use></svg></a></li></ul><div id="language-select"><div class="select-form-group"><select class="select-form-control" onchange="location.href=this.value" aria-label="English"><option value="/de/careers/life">Deutsch</option><option selected disabled value="/en/careers/life">English</option><option value="/en-ca/careers/life">English (Canada)</option><option value="/en-gb/careers/life">English (UK)</option><option value="/es/careers/life">Español (España)</option><option value="/es-419/careers/life">Español (Latinoamérica)</option><option value="/es-mx/careers/life">Español (Mexico)</option><option value="/fr/careers/life">Français</option><option value="/fr-ca/careers/life">Français (Canada)</option><option value="/it/careers/life">Italiano</option><option value="/nl/careers/life">Nederlands</option><option value="/pl/careers/life">Polski</option><option value="/pt/careers/life">Português (Brazil)</option><option value="/pt-pt/careers/life">Português</option><option value="/sv/careers/life">Svenska</option><option value="/tr/careers/life">Türkçe</option><option value="/zh/careers/life">中文简体</option></select><span class="select-dropdown-icon text-sm"><svg width="14" height="14"><use xlink:href="#icon-angle-down" aria-hidden="true"></use></svg></span></div></div><div id="currency-select"><div class="select-form-group"><select class="select-form-control" onchange="location.href=this.value" aria-label="US dollars"><option selected disabled value="/en/careers/life?currency=USD">US dollars</option><option value="/en/careers/life?currency=EUR">Euros</option><option value="/en/careers/life?currency=GBP">British pounds</option><option value="/en/careers/life?currency=CAD">Canadian dollars</option><option value="/en/careers/life?currency=AUD">Australian dollars</option><option value="/en/careers/life?currency=BRL">Brazilian reals</option><option value="/en/careers/life?currency=MXN">Mexican pesos</option><option value="/en/careers/life?currency=ARS">Argentine pesos</option><option value="/en/careers/life?currency=INR">Indian rupees</option><option value="/en/careers/life?currency=CNY">Chinese yuan</option><option value="/en/careers/life?currency=JPY">Japanese yen</option><option value="/en/careers/life?currency=RUB">Russian rubles</option><option value="/en/careers/life?currency=KRW">South Korean won</option><option value="/en/careers/life?currency=PEN">Peruvian soles</option><option value="/en/careers/life?currency=PLN">Polish zlotys</option><option value="/en/careers/life?currency=TRY">Turkish Lira</option><option value="/en/careers/life?currency=SEK">Swedish kronor</option><option value="/en/careers/life?currency=CZK">Czech korunas</option><option value="/en/careers/life?currency=NZD">New Zealand dollars</option><option value="/en/careers/life?currency=MAD">Moroccan dirhams</option><option value="/en/careers/life?currency=ZAR">South African rand</option><option value="/en/careers/life?currency=CLP">Chilean pesos</option><option value="/en/careers/life?currency=COP">Colombian pesos</option><option value="/en/careers/life?currency=CHF">Swiss francs</option><option value="/en/careers/life?currency=DKK">Danish kroner</option><option value="/en/careers/life?currency=ILS">Israeli new shekels</option><option value="/en/careers/life?currency=NOK">Norwegian kroner</option><option value="/en/careers/life?currency=SGD">Singapore dollars</option><option value="/en/careers/life?currency=HKD">Hong Kong dollars</option><option value="/en/careers/life?currency=THB">Thai baht</option></select><span class="select-dropdown-icon text-sm"><svg width="14" height="14"><use xlink:href="#icon-angle-down" aria-hidden="true"></use></svg></span></div></div></div></div></footer><footer class="footer" id="mobile-footer"><div class="row"><a href="/en/support" rel="noopener">FAQs</a><span class="separator">|</span><a href="/en/about/tos" rel="nofollow">Terms of use</a><span class="separator">|</span><a href="/en/about/privacy" rel="nofollow">Privacy</a><span class="separator">|</span><a href="/en/about/refunds" rel="nofollow">Refund policy</a></div><div class="row"><ul class="inline-list social-links"><li><a href="https://facebook.com/busbud" title="Facebook" target="_blank" rel="nofollow noopener"><svg height="24" width="24"><use xlink:href="#icon-facebook" aria-hidden="true"></use></svg></a></li><li><a href="https://twitter.com/busbud" title="Twitter" target="_blank" rel="nofollow noopener"><svg vheight="24" width="24"><use xlink:href="#icon-twitter" aria-hidden="true"></use></svg></a></li><li><a href="https://www.instagram.com/busbud_com/" title="Instagram" target="_blank" rel="nofollow noopener"><svg height="24" width="24"><use xlink:href="#icon-instagram" aria-hidden="true"></use></svg></a></li><li><a href="https://www.pinterest.ca/busbud/overview/" title="Pinterest" target="_blank" rel="nofollow noopener"><svg height="24" width="24"><use xlink:href="#icon-pinterest" aria-hidden="true"></use></svg></a></li></ul></div></footer><div class="footer-addendum"><a class="text-secondary" href="https://builtinmtl.com" target="_blank" rel="nofollow noopener">Built in Montreal</a> | © 2019 Busbud, Inc. | All rights reserved</div><noscript><div>Enable Javascript for correct site display</div></noscript></div><div id="fb-root"></div><!-- @split-content--><script data-id="bb">var BB = {};
+
+BB.inst = {
+  G:'xkU-FugnQDucoxxKnyx9kA',
+  I:'',
+  S:'3NWz',
+  session_id:'xkU-FugnQDucoxxKnyx9kA-3NWz',
+  request_id:'6e6e68d8-0935-4aa5-aaf3-dc7677a4e629'
+};
+BB.NAPI_URL = '//napi-preview.busbud.com';
+
+// Use /napi proxy if browser doesn't support CORS
+if (window.XDomainRequest || false) {
+  BB.NAPI_URL = '/napi';
+}
+
+BB.NAPI_AUTH_TOKEN = 'GUEST_X4gaZj9BTM-UVbKSxiqK3w';
+BB.config = {
+  lang: 'en',
+  locale: 'en',
+  currency: {
+    code: 'USD',
+    rules: {"symbol":"$","symbol_left":1,"space":0,"cents":1,"commas":0,"decimal_points":2,"label":"United States Dollar"}
+  },
+  csrf: '',
+  env: 'preview',
+  release: 'acfdcdb93a4052cc1ae623e219be03ce5e31ec25',
+  sentry: 'https://325fa6f9da4647b4908770b6656ea360@sentry.io/72718',
+  ADYEN_CHECKOUT_SDK_LOADING_CONTEXT: 'https://checkoutshopper-test.adyen.com/checkoutshopper/',
+  APPLE_MERCHANT_IDENTIFIER: 'merchant.com.adyen.Busbud.test',
+  GOOGLE_PAY_MERCHANT_IDENTIFIER: '10371591361140733974',
+  NAPI_LOG_LEVEL: null,
+  FACEBOOK_APP_ID: '321854465225965',
+};
+BB.user = {
+  cart: 'xkU-FugnQDucoxxKnyx9kA'
+};
+BB.features = {"DELAYED_BOOKING_ENABLED":true,"TRAVEL_REVIEWS_ENABLED":true,"CANCELLATION_WITHOUT_ACCOUNT_ENABLED":false,"NN_REMOVE_FEES":false,"ACCOUNT_BOOK_TRIP_COPY":false,"BOOK_RETURN_TRIP":false,"CHECKOUT_PASSENGER_AUTOFILL":false,"CJ_AFFILIATE_SALES_ACTIVE":false,"CONTENTFUL_OPERTATORS_NEW_FIELDS":true,"CONTENTFUL_PERF_ENABLED":false,"LANDING_PAGE_CURRENCY_SELECTOR_REMOVE":false,"DEPARTURE_CARD_SHOW_UNIT_PRICE":false,"DEPARTURE_DETAILS_CLEAN":false,"ES_SEAT_SELECTION_STRATEGY":"control","SELECTED_SEAT_PRICE_STRATEGY":"full-price","SHOW_DEPARTURES_WITH_UNMAPPED_STOPS":false,"HIDE_CARD_LOGOS":false,"QUICK_TOGGLES":false,"SUMMARY_BAR":false,"INSTALLMENTS_ENABLED":false,"HAVE_MOBILE_AD":false,"NEW_CONFIRMATION_PAGE":false,"ADYEN_CREDIT_CARD_EXPIRY_DATE_MERGED":false,"PAY_BUTTON_COPY":false,"PRICE_PREDICTION_ON_ROUTE_PAGE":"control","REDIRECT_TO_SIGNUP":false,"USE_NAPI_PROXY":false,"SEAT_LAYOUT_TAG":false,"SEAT_SELECTION_INLINE":false,"SEAT_SELECTION_MODAL":false,"SEATS_ON_DEPARTURE_CARD":false,"SHOW_SOURCES":false,"STRINGIFIED_PROPS":false,"VANILLA_HOMEPAGE":false,"TEST_EXPERIMENT_LABEL":"default"};
+BB.device = {"type":"desktop","vendor":"generic","user_agent_quality":"normal","is_mobile":false,"is_tablet":false,"is_desktop":true,"is_bot":false,"is_internetexplorer":false,"is_old_browser":false,"browser_name":"chrome"};
+BB.whitelabel = '';
+BB.whitelabel_settings = {};
+BB.experiments = {"nn_remove_fees":"control","account_book_trip_copy":"control","book_return_trip":"control","checkout_passenger_autofill":"control","cj_affiliate_sales":"control","contentful_opertators_new_fields":"control","contentful_perf":"control","currency_selector_removal_landing_pages":"control","departure_card_single_ticket_price":"control","departure_details_clean":"control","es_seat_selection":"control","es_selected_seat_price":"control","es_show_departures_with_unmapped_stop":"control","hide_card_logos":"control","improved_results_header":"control","installments":"control","mobile_ad":"control","new_confirmation_page":"control","adyen_credit_card_expiry_date_merged":"control","pay_button_copy":"control","price_prediction_route_page":"control","redirect_to_signup":"control","remove_napi_options_req":"control","seat_layout_tag":"control","seat_selection_inline":"control","seat_selection_modal":"control","seats_on_departure_card":"control","show_sources":"control","stringified_props":"control","vanilla_homepage":"control","thank_you_nps_and_easymeter":"control","test_user_experiment":"control","xp_control_variance":"control","hosting_env":"heroku"};
+BB.analytics = {"config":{"locale":"en","language":"en","currency":"USD","environment":"preview","app":"web","request_id":"6e6e68d8-0935-4aa5-aaf3-dc7677a4e629","tracking":true,"whitelabel":false,"whitelabel_name":"none","amplitude_enabled":true,"amplitude_key":"d2fd558d472f4b8b6173073a138ff80a","amplitude_loaded_by_pubweb":true},"page":{"name":"careers","site_section":"careers","careers_page":"life","path":"\u002Fcareers\u002Flife","details":{"careers_page":"life"},"previous_site_section":"about"},"user":{"logged_in":false,"user_id":null,"client_id":"xkU-FugnQDucoxxKnyx9kA","user_agent_quality":"normal"},"section_properties":{},"connection":{}};</script><script data-id="icon">//- AJAX the external SVG file to prevent being blocked by CORS
+//- Issue: https://bugs.chromium.org/p/chromium/issues/detail?id=470601
+//- Solution: https://css-tricks.com/ajaxing-svg-sprite/
+var ajax = new XMLHttpRequest();
+ajax.open("GET", '//busbud-pubweb-assets-preview.global.ssl.fastly.net/visual-assets/3587f61.assets-defs.svg', true);
+ajax.send();
+ajax.onload = function(e) {
+  var icons = document.createElement("div");
+  icons.innerHTML = ajax.responseText;
+  icons.style.display = "none";
+  document.body.insertBefore(icons, document.body.childNodes[0]);
+}</script><script data-id="tracking">var gtmLayer = gtmLayer || [];</script><script data-id="amplitude">/*eslint-disable*/
+(function(e,t){var n=e.amplitude||{_q:[],_iq:{}};var r=t.createElement("script")
+;r.type="text/javascript";r.async=true
+;r.src="https://cdn.amplitude.com/libs/amplitude-4.2.1-min.gz.js"
+;r.onload=function(){if(e.amplitude.runQueuedFunctions){
+e.amplitude.runQueuedFunctions()}else{
+console.log("[Amplitude] Error: could not load SDK")}}
+;var i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)
+;function s(e,t){e.prototype[t]=function(){
+this._q.push([t].concat(Array.prototype.slice.call(arguments,0)));return this}}
+var o=function(){this._q=[];return this}
+;var a=["add","append","clearAll","prepend","set","setOnce","unset"]
+;for(var u=0;u<a.length;u++){s(o,a[u])}n.Identify=o;var c=function(){this._q=[]
+;return this}
+;var l=["setProductId","setQuantity","setPrice","setRevenueType","setEventProperties"]
+;for(var p=0;p<l.length;p++){s(c,l[p])}n.Revenue=c
+;var d=["init","logEvent","logRevenue","setUserId","setUserProperties","setOptOut","setVersionName","setDomain","setDeviceId","setGlobalUserProperties","identify","clearUserProperties","setGroup","logRevenueV2","regenerateDeviceId","logEventWithTimestamp","logEventWithGroups","setSessionId","resetSessionId"]
+;function v(e){function t(t){e[t]=function(){
+e._q.push([t].concat(Array.prototype.slice.call(arguments,0)))}}
+for(var n=0;n<d.length;n++){t(d[n])}}v(n);n.getInstance=function(e){
+e=(!e||e.length===0?"$default_instance":e).toLowerCase()
+;if(!n._iq.hasOwnProperty(e)){n._iq[e]={_q:[]};v(n._iq[e])}return n._iq[e]}
+;e.amplitude=n})(window,document);
+
+amplitude.getInstance().init('d2fd558d472f4b8b6173073a138ff80a', null, {
+  saveEvents: true,
+  includeUtm: true,
+  includeReferrer: true
+});</script><script>// @ts-check
+"use strict";
+
+function _classCallCheck(instance, Constructor) {
+  if (!(instance instanceof Constructor)) {
+    throw new TypeError("Cannot call a class as a function");
+  }
+}
+
+// This file is inlined in the page HTML
+// Avoid importing any dependencies to keep it small
+
+var TRACK_LINK_TIMEOUT = 300;
+var USER_ID_COOKIE_KEY = "I";
+
+var ArrayProto = Array.prototype;
+
+/**
+ * @property {Array<string>} services List of data sinks to send analytics to
+ * @property {Object} gtmLayer The Google Tag Manager data layer
+ *      @see {@link https://developers.google.com/tag-manager/devguide}
+ * @property {Tracking.Analytics} analytics Analytics data passed from server to client
+ * @property {Object|undefined} performance The Web Performance API, if available
+ *      @see {@link https://developer.mozilla.org/en-US/docs/Web/API/Window/performance}
+ * @property {Object} experiments A map of experiment names to active variation
+ * @property {Object} section_properties A map of properties for different "sections" of the flow
+ *      (ex: "search", "results", "checkout", etc.) usually sent with all events
+ * @property {Object} state Hold arbitrary internal tracking state
+ *      (ex: used in Checkout to send only certain events once)
+ *
+ * @implements {Tracking.Tracker}
+ */
+
+var Tracker = (function() {
+  /**
+   * @param {Object} gtmLayer
+   * @param {Tracking.Analytics} analytics
+   * @param {Experiments.Variations} experiments
+   * @param {Object|undefined} [performance]
+   * @param {() => Object|undefined} [getAmplitude]
+   * @param {Object|undefined} [connection]
+   * @param {Screen|undefined} [device_screen]
+   */
+  function Tracker(
+    gtmLayer,
+    analytics,
+    experiments,
+    performance,
+    getAmplitude,
+    connection,
+    device_screen
+  ) {
+    _classCallCheck(this, Tracker);
+
+    this.services = ["ga", "mixpanel", "customerio"];
+
+    // Flag set on class instance to allow testing
+    this._has_native_object_assign = typeof Object.assign === "function";
+
+    this.gtmLayer = gtmLayer;
+    this.analytics = analytics;
+    this.performance = performance;
+    this.getAmplitude = getAmplitude || function noop() {};
+    this.connection = connection;
+    this.device_screen = device_screen;
+
+    // Format experiments data to shape used by GTM tags
+    this.experiments = Object.keys(experiments).reduce(function(acc, xp_name) {
+      var variation = experiments[xp_name];
+      acc[xp_name] = { variation: variation };
+      return acc;
+    }, {});
+
+    // Ensure defaults for analytics data
+    this.analytics.config = this.analytics.config || {};
+    this.analytics.page = {
+      name: this.analytics.page.name,
+      path: this.analytics.page.path || window.location.pathname,
+      site_section: this.analytics.page.site_section || "none",
+      previous_site_section:
+        this.analytics.page.previous_site_section || "none",
+      details: this.analytics.page.details || {},
+      content: this.analytics.page.content || {}
+    };
+    this.analytics.connection = this.analytics.connection || {};
+    this.analytics.device_screen = this.analytics.device_screen || {};
+
+    this.section_properties = this.analytics.section_properties;
+
+    this.state = {};
+  }
+
+  Tracker.prototype.init = function init() {
+    // Push initial values to GTM data layer
+    var gtm_base = this._assign(
+      {},
+      this.analytics.config,
+      this.analytics.page,
+      { content: null }
+    );
+
+    // Used by certain GTM tags, see:
+    // https://tagmanager.google.com/#/container/accounts/3438046/containers/1204309/workspaces/99/variables
+    var gtm_custom = {
+      /** GTM Variable "operator name" */
+      operator: this.analytics.page.details.operator,
+      /** GTM Variable "partner name" */
+      source: this.analytics.page.details.partner_source,
+      /** GTM Variable "origin country" */
+      origin_country: this.section_properties.search_origin_country,
+      /** GTM Variable "route name" */
+      route: this.section_properties.search_route,
+      /** GTM Variable "trip type" */
+      trip_type: this.section_properties.search_trip_type,
+      /** GTM Variable "trip direction" */
+      direction: this.analytics.page.details.results_direction,
+      /** GTM Variable "discount code" */
+      discount_code: this.section_properties.search_discount_code
+    };
+
+    var gtm_advanced = {
+      ecommerce: this.analytics.ecommerce || {},
+      user: this.analytics.user || {},
+      experiments: this.experiments || {},
+      section_properties: this.section_properties
+    };
+
+    this.gtmLayer.push(this._assign({}, gtm_base, gtm_custom, gtm_advanced));
+
+    if (this.connection && this.connection.addEventListener) {
+      this.connection.addEventListener(
+        "change",
+        this._saveNetworkInfo.bind(this)
+      );
+      this._saveNetworkInfo();
+    }
+
+    this._saveDeviceScreenInfo();
+
+    if (this.analytics.config.amplitude_enabled) {
+      this.amplitudeInit();
+    }
+  };
+
+  /**
+   * Track user interaction or other application event
+   *
+   * @param {Tracking.Event} ev
+   * @param {Array<string>} [srv] Specify which data sinks to send to
+   * @param {Function} [callback]
+   */
+
+  Tracker.prototype.track = function track(ev, srv, callback) {
+    ev.services = srv || this.services;
+    var bb_event = this._assign({}, ev, { ecommerce: null });
+    var ecommerce = ev.ecommerce || this.analytics.ecommerce || {};
+    var user = ev.user || this.analytics.user || {};
+    var experiments = ev.experiments || this.experiments || {};
+
+    this.gtmLayer.push({
+      event: ev.trigger || "Manual event",
+      bb_event: bb_event,
+      ecommerce: ecommerce,
+      user: user,
+      experiments: experiments
+    });
+    this.gtmLayer.push({ bb_event: null });
+
+    if (this.analytics.config.amplitude_enabled) {
+      this.amplitudeEvent(this.getAmplitude(), {
+        event_properties: bb_event,
+        user_properties: user,
+        purchased_products: ecommerce.purchase
+          ? ecommerce.purchase.products
+          : undefined,
+        experiments: experiments,
+        site_section: this.analytics.page.site_section,
+        site_language: this.analytics.config.language,
+        site_currency: this.analytics.config.currency,
+        site_app: this.analytics.config.app
+      });
+    }
+
+    if (callback) callback();
+  };
+
+  /**
+   * Track a link click, deferring browser redirect so event has time to send
+   *
+   * @param {Tracking.Event} ev
+   * @param {Event} dom_event
+   * @param {Element} elem
+   */
+
+  Tracker.prototype.trackLink = function trackLink(ev, dom_event, elem) {
+    var href = elem.getAttribute("href");
+
+    this.track(ev);
+
+    if (href && elem.getAttribute("target") !== "_blank") {
+      dom_event.preventDefault();
+
+      setTimeout(function() {
+        if (href) window.location.href = href;
+      }, TRACK_LINK_TIMEOUT);
+    }
+  };
+
+  /**
+   * Manually track a page view.
+   * Only use this for "virtual page views" (ex: client-side routing),
+   * as page views are tracked automatically when GTM loads.
+   *
+   * @param {Tracking.Page} ev
+   * @param {Array<string>} [srv] Specify which data sinks to send to
+   * @param {Function} [callback]
+   */
+
+  Tracker.prototype.page = function page(ev, srv, callback) {
+    ev.services = srv || this.services;
+
+    this.analytics.page.name = ev.name;
+    this.analytics.page.path = ev.path;
+
+    var bb_event = this._assign({}, ev, { ecommerce: null });
+    var user = ev.user || this.analytics.user || {};
+    var experiments = ev.experiments || this.experiments || {};
+
+    this.gtmLayer.push({
+      event: ev.trigger || "Virtual pageview",
+      path: ev.path || this.analytics.page.path,
+      bb_event: bb_event,
+      ecommerce: ev.ecommerce || this.analytics.ecommerce || {},
+      user: user,
+      experiments: experiments
+    });
+    this.gtmLayer.push({ bb_event: null });
+
+    if (this.analytics.config.amplitude_enabled) {
+      this.amplitudePageview(this.getAmplitude(), {
+        page_properties: this.analytics.page.details,
+        event_properties: bb_event,
+        user_properties: user,
+        experiments: experiments,
+        site_section: this.analytics.page.site_section,
+        site_language: this.analytics.config.language,
+        site_currency: this.analytics.config.currency,
+        site_app: this.analytics.config.app
+      });
+    }
+
+    if (callback) callback();
+  };
+
+  /**
+   * Associate tracked events to this user
+   *
+   * @param {Tracking.User} user
+   * @param {Function} [callback]
+   */
+
+  Tracker.prototype.identify = function identify(user, callback) {
+    this.analytics.user.user_id = user.user_id;
+    this.analytics.user.locale = user.locale;
+
+    this._setCookie(USER_ID_COOKIE_KEY, user.user_id, 730, "/"); // 730 days = 2 years
+
+    this.gtmLayer.push({
+      event: "Identification",
+      user: {
+        user_id: user.user_id
+      }
+    });
+
+    if (this.analytics.config.amplitude_enabled) {
+      this.amplitudeIdentify(this.getAmplitude(), {
+        user_id: user.user_id,
+        user_properties: user
+      });
+    }
+
+    if (callback) callback();
+  };
+
+  /**
+   * Push arbitrary data to GTM's {@link DataLayer}
+   *
+   * @param {Object} payload
+   * @param {Object} payload.section_properties Pushing new section properties
+   *    will merge them with existing ones and make them available to be sent
+   *    with future events
+   */
+
+  Tracker.prototype.push = function push(payload) {
+    this.gtmLayer.push(payload);
+
+    // Also update internal section properties so they can be sent with future events
+    var section_properties = payload.section_properties;
+    if (section_properties) {
+      this.section_properties = this._assign(
+        this.section_properties,
+        section_properties
+      );
+    }
+  };
+
+  Tracker.prototype.amplitudeEvent = function amplitudeEvent(
+    amplitude,
+    payload
+  ) {
+    if (!amplitude) {
+      return;
+    }
+
+    var event_properties = payload.event_properties || {};
+    var purchased_products = payload.purchased_products;
+
+    var amplitude_properties = event_properties.details || {};
+
+    if (purchased_products) {
+      var routes = [];
+      var sources = [];
+      var operators = [];
+      purchased_products.forEach(function(p) {
+        routes.push(p.name);
+        sources.push(p.brand);
+        operators.push(p.variant);
+      });
+      amplitude_properties.purchased_sources = sources;
+      amplitude_properties.purchased_routes = routes;
+      amplitude_properties.purchased_operators = operators;
+      if (purchased_products.length > 0) {
+        amplitude_properties.purchased_tickets =
+          purchased_products.length * purchased_products[0].quantity;
+      }
+    }
+
+    var amplitude_name = event_properties.action;
+    var core_props = {
+      site_section: this.analytics.page.site_section,
+      previous_site_section: this.analytics.page.previous_site_section,
+      locale: this.analytics.config.locale,
+      language: this.analytics.config.locale,
+      currency: this.analytics.config.currency,
+      app: this.analytics.config.app
+    };
+
+    amplitude_properties = this._assign(
+      core_props,
+      this.section_properties,
+      this._getExperimentProperties(),
+      this._getWhitelabelProperty(),
+      amplitude_properties,
+      this.analytics.connection,
+      {
+        device_screen: this.analytics.device_screen,
+        preferred_language: this.analytics.user.preferred_language
+      }
+    );
+
+    amplitude.getInstance().logEvent(amplitude_name, amplitude_properties);
+  };
+
+  Tracker.prototype.amplitudeIdentify = function amplitudeIdentify(
+    amplitude,
+    payload
+  ) {
+    if (!amplitude) {
+      return;
+    }
+
+    var user_id = payload.user_id;
+    var user_properties = this._assign(
+      {},
+      this._omit(payload.user_properties || {}, [
+        "client_id",
+        "user_agent_quality",
+        "currency",
+        "logged_in",
+        "phone"
+      ])
+    );
+
+    if (user_properties.logged_in) delete user_properties.logged_in;
+
+    var instance =
+      amplitude && amplitude.getInstance && amplitude.getInstance();
+
+    if (instance) {
+      instance.setUserId(user_id);
+      instance.setUserProperties(user_properties);
+    }
+  };
+
+  Tracker.prototype.amplitudeIdentifyOnLanding = function amplitudeIdentifyOnLanding(
+    amplitude,
+    payload
+  ) {
+    if (!amplitude) {
+      return;
+    }
+
+    var site_section = payload.site_section;
+    if (this.analytics && this.analytics.page.name) {
+      var identify = new amplitude.Identify().set(
+        "landing_site_section",
+        site_section
+      );
+      amplitude.getInstance().identify(identify);
+    }
+  };
+
+  Tracker.prototype.amplitudePageview = function amplitudePageview(
+    amplitude,
+    payload
+  ) {
+    if (!amplitude) {
+      return;
+    }
+
+    if (!this.analytics.page.name) {
+      return;
+    }
+
+    var page_properties = payload.page_properties || {};
+    var event_properties = payload.event_properties || {};
+    var amplitude_properties = this._assign(
+      {},
+      page_properties,
+      event_properties.details
+    );
+
+    var amplitude_name = this.analytics.page.name + "_pageview";
+    amplitude_properties = this._assign(
+      {
+        site_section: this.analytics.page.site_section,
+        previous_site_section: this.analytics.page.previous_site_section,
+        locale: this.analytics.config.locale,
+        language: this.analytics.config.locale,
+        currency: this.analytics.config.currency,
+        app: this.analytics.config.app,
+        user_agent_quality: this.analytics.user.user_agent_quality
+      },
+      amplitude_properties,
+      this.section_properties,
+      this._getExperimentProperties(),
+      this._getWhitelabelProperty()
+    );
+
+    amplitude.getInstance().logEvent(amplitude_name, amplitude_properties);
+  };
+
+  Tracker.prototype.amplitudeInit = function amplitudeInit() {
+    // Initial page view
+    this.amplitudePageview(this.getAmplitude(), {
+      page_properties: this.analytics.page.details,
+      event_properties: {},
+      user_properties: this.analytics.user,
+      experiments: this.experiments,
+      site_section: this.analytics.page.site_section,
+      site_language: this.analytics.config.language,
+      site_currency: this.analytics.config.currency,
+      site_app: this.analytics.config.app
+    });
+
+    // Set user properties on landing pages
+    this.amplitudeIdentifyOnLanding(this.getAmplitude(), {
+      site_section: this.analytics.page.site_section
+    });
+  };
+
+  /**
+   * Not used anymore. Remove once Customer.io GTM tags are completely removed.
+   *
+   * @deprecated
+   * @param {any} _cio
+   * @param {any} _payload
+   */
+  // eslint-disable-next-line no-unused-vars
+  Tracker.prototype.cioEvent = function cioEvent(_cio, _payload) {};
+  // noop
+
+  /**
+   * Not used anymore. Remove once Customer.io GTM tags are completely removed.
+   *
+   * @deprecated
+   * @param {any} _cio
+   * @param {any} _payload
+   */
+  // eslint-disable-next-line no-unused-vars
+  Tracker.prototype.cioIdentify = function cioIdentify(_cio, _payload) {};
+  // noop
+
+  /**
+   * @returns {Object}
+   */
+
+  Tracker.prototype._getExperimentProperties = function _getExperimentProperties() {
+    var _this = this;
+
+    return Object.keys(this.experiments).reduce(function(acc, xp_name) {
+      acc["xp_" + xp_name] = _this.experiments[xp_name].variation;
+      return acc;
+    }, {});
+  };
+
+  /**
+   * @returns {Object}
+   */
+
+  Tracker.prototype._getWhitelabelProperty = function _getWhitelabelProperty() {
+    return {
+      whitelabel: this.analytics.config.whitelabel_name
+    };
+  };
+
+  /**
+   * Populates this.analytics.network with some data from Browser Network Information API
+   */
+
+  Tracker.prototype._saveNetworkInfo = function _saveNetworkInfo() {
+    this.analytics.connection.connection_type = this.connection.type;
+    this.analytics.connection.connection_downlink = this.connection.downlink;
+    this.analytics.connection.connection_rtt = this.connection.rtt;
+    this.analytics.connection.connection_downlink_max = this.connection.downlinkMax;
+    this.analytics.connection.connection_effective_type = this.connection.effectiveType;
+    this.analytics.connection.connection_save_data = this.connection.saveData;
+  };
+
+  Tracker.prototype._saveDeviceScreenInfo = function _saveDeviceScreenInfo() {
+    if (this.device_screen) {
+      this.analytics.device_screen.availHeight = this.device_screen.availHeight;
+      this.analytics.device_screen.availWidth = this.device_screen.availWidth;
+      this.analytics.device_screen.height = this.device_screen.height;
+      this.analytics.device_screen.width = this.device_screen.width;
+    }
+  };
+
+  Tracker.prototype._assign = function _assign(target) {
+    if (this._has_native_object_assign) {
+      // @ts-ignore
+      return Object.assign.apply(Object, arguments);
+    }
+
+    if (target === undefined || target === null) {
+      throw new TypeError("Cannot convert undefined or null to object");
+    }
+
+    var output = Object(target);
+
+    for (var index = 1; index < arguments.length; index++) {
+      var source = arguments[index];
+
+      if (source !== undefined && source !== null) {
+        for (var next_key in source) {
+          if (source.hasOwnProperty(next_key)) {
+            output[next_key] = source[next_key];
+          }
+        }
+      }
+    }
+
+    return output;
+  };
+
+  Tracker.prototype._omit = function _omit(obj) {
+    var copy = {};
+    var omit_keys = ArrayProto.concat.apply(
+      ArrayProto,
+      ArrayProto.slice.call(arguments, 1)
+    );
+    for (var key in obj) {
+      if (omit_keys.indexOf(key) === -1) {
+        copy[key] = obj[key];
+      }
+    }
+    return copy;
+  };
+
+  Tracker.prototype._setCookie = function _setCookie(
+    name,
+    value,
+    days,
+    path,
+    domain,
+    secure
+  ) {
+    var expires = void 0;
+    if (days) {
+      var date = new Date();
+      date.setTime(date.getTime() + days * 24 * 60 * 60 * 1000);
+      // @ts-ignore
+      expires = date.toGMTString();
+    }
+    if (!path) path = "/";
+    if (!domain) {
+      if (window.location.host.indexOf("busbud.com") !== -1) {
+        domain = ".busbud.com";
+      }
+    }
+    // @ts-ignore
+    var cookie = name + "=" + escape(value);
+    cookie += expires ? ";expires=" + expires : "";
+    cookie += path ? ";path=" + path : "";
+    cookie += domain ? ";domain=" + domain : "";
+    cookie += secure ? ";secure" : "";
+    document.cookie = cookie;
+  };
+
+  return Tracker;
+})();
+
+typeof module !== "undefined" && (module.exports = Tracker);
+
+// Must wrap in a function instead of passing object directly
+// because after Amplitude SDK loads it will overwrite
+// the `window.amplitude` reference
+function getAmplitude() {
+  // @ts-ignore
+  return window.amplitude;
+}
+
+if (typeof window !== "undefined") {
+  var tracker = new Tracker(
+    // @ts-ignore
+    window.gtmLayer,
+    // @ts-ignore
+    window.BB.analytics,
+    // @ts-ignore
+    window.BB.experiments,
+    window.performance,
+    getAmplitude,
+    // @ts-ignore
+    window.navigator && window.navigator.connection,
+    window.screen
+  );
+
+  // @ts-ignore Modules access `tracker` through the global `window.tracker` object
+  window.tracker = tracker;
+  // @ts-ignore GTM tags access `tracker` through the global `window.GTMtracker` object
+  window.GTMtracker = tracker;
+
+  tracker.init();
+}
+</script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script><script src="//busbud-pubweb-assets-preview.global.ssl.fastly.net/js/7e64fd6.vendor-all-bundle.js"></script><script src="//busbud-pubweb-assets-preview.global.ssl.fastly.net/js/ed5d9f5.i18n-en-bundle.js"></script><script src="//busbud-pubweb-assets-preview.global.ssl.fastly.net/js/508da3a.core-bundle.js"></script><noscript data-id="gtm"><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NRH5H3" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script data-id="gtm">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','gtmLayer','GTM-NRH5H3');</script></body></html><!-- default --><!-- /en/careers/life -->
