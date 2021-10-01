@@ -1,6 +1,7 @@
 {
   "app": {
     "name": "Blade, you are old hat.",
+    "blade": "Say that again to my face.",
     "short_description": "Connect support to Smartling to translate support requests.",
     "long_description": "Connect support to Smartling to translate support requests.",
     "installation_instructions": "Set the smartling user id, token secret and project ids during installation"
